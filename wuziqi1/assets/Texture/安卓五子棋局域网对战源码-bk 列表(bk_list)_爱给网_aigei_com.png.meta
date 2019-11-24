@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "b79166ea-c1aa-460c-981d-deec225a3da6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "安卓五子棋局域网对战源码-bk 列表(bk_list)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "694e80f0-d2d4-4af4-bc50-65a2fc38a971",
+      "rawTextureUuid": "b79166ea-c1aa-460c-981d-deec225a3da6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 553,
+      "height": 543,
+      "rawWidth": 553,
+      "rawHeight": 543,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

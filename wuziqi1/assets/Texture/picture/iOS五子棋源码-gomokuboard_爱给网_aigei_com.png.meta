@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "85887a42-5bca-4306-9b87-f780845f0a6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "iOS五子棋源码-gomokuboard_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "c2f905ef-108c-43ce-b456-6f92bfb30e19",
+      "rawTextureUuid": "85887a42-5bca-4306-9b87-f780845f0a6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1229,
+      "height": 1229,
+      "rawWidth": 1229,
+      "rawHeight": 1229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
